@@ -11,5 +11,5 @@
 <p>
 Esse foi o meu PRIMEIRO projeto seguindo as aulas do DevClub! Uma interface bem bonita e responsiva. O resultado está logo abaixo:
 </p>
-<img src="" />
-<img src="" />
+<img src="https://github.com/guxtavo999/Wide-coverage-location/blob/master/WideC.png?raw=true" />
+<img src="https://github.com/guxtavo999/Wide-coverage-location/blob/master/WideC2.png?raw=true" />
